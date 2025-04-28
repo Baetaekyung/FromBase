@@ -1,0 +1,14 @@
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\bin\Debug\net8.0\C# Grammer Tester.exe
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\bin\Debug\net8.0\C# Grammer Tester.deps.json
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\bin\Debug\net8.0\C# Grammer Tester.runtimeconfig.json
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\bin\Debug\net8.0\C# Grammer Tester.dll
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\bin\Debug\net8.0\C# Grammer Tester.pdb
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\obj\Debug\net8.0\C# Grammer Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\obj\Debug\net8.0\C# Grammer Tester.AssemblyInfoInputs.cache
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\obj\Debug\net8.0\C# Grammer Tester.AssemblyInfo.cs
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\obj\Debug\net8.0\C# Grammer Tester.csproj.CoreCompileInputs.cache
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\obj\Debug\net8.0\C# Grammer Tester.dll
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\obj\Debug\net8.0\refint\C# Grammer Tester.dll
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\obj\Debug\net8.0\C# Grammer Tester.pdb
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\obj\Debug\net8.0\C# Grammer Tester.genruntimeconfig.cache
+C:\Users\tkway\C#\C# Grammer Tester\C# Grammer Tester\obj\Debug\net8.0\ref\C# Grammer Tester.dll
