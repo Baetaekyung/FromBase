@@ -1,6 +1,6 @@
 ﻿namespace C__Grammer_Tester.ObserverPattern
 {
-    interface ISubject
+    public interface ISubject
     {
         void RegisterObserver(IObserver observer);
         void RemoveObserver(IObserver observer);
