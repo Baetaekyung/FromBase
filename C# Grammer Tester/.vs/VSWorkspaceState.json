@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\C# Grammer Tester",
-    "\\C# Grammer Tester\\ObserverPattern"
+    "\\C# Grammer Tester\\DesignPattern"
   ],
-  "SelectedNode": "\\C# Grammer Tester\\ObserverPattern\\Product.cs",
+  "SelectedNode": "\\C# Grammer Tester\\DesignPattern\\ObserverPattern",
   "PreviewInSolutionExplorer": false
 }

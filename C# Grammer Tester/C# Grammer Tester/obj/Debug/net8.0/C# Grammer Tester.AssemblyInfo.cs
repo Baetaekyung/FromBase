@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C# Grammer Tester")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3002a1d6e53a09301c5ed709121a95a73a9d38c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02454f457e99e4d2d725081d1d2fab794c71ad17")]
 [assembly: System.Reflection.AssemblyProductAttribute("C# Grammer Tester")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C# Grammer Tester")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

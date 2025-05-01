@@ -1,0 +1,15 @@
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\bin\Debug\net8.0\TestOptimization.exe
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\bin\Debug\net8.0\TestOptimization.deps.json
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\bin\Debug\net8.0\TestOptimization.runtimeconfig.json
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\bin\Debug\net8.0\TestOptimization.dll
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\bin\Debug\net8.0\TestOptimization.pdb
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\obj\Debug\net8.0\TestOptimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\obj\Debug\net8.0\TestOptimization.AssemblyInfoInputs.cache
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\obj\Debug\net8.0\TestOptimization.AssemblyInfo.cs
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\obj\Debug\net8.0\TestOptimization.csproj.CoreCompileInputs.cache
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\obj\Debug\net8.0\TestOptimization.sourcelink.json
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\obj\Debug\net8.0\TestOptimization.dll
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\obj\Debug\net8.0\refint\TestOptimization.dll
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\obj\Debug\net8.0\TestOptimization.pdb
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\obj\Debug\net8.0\TestOptimization.genruntimeconfig.cache
+C:\Users\tkway\FromBase\TestOptimization\TestOptimization\obj\Debug\net8.0\ref\TestOptimization.dll
